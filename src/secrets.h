@@ -7,8 +7,8 @@
 #define DEVICE_ID "generic-device-001"
 
 // Wifi settings
-const char WIFI_SSID[] = "";
-const char WIFI_PASS[] = "";
+const char WIFI_SSID[] = "Cesaraul";
+const char WIFI_PASS[] = "900327GC";
 
 // BLE settings
 #define IBEACON_UUID            "ffeeddcc-bbaa-9988-7766-554433221100"
