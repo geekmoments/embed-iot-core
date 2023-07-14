@@ -8,7 +8,7 @@
 
 // Wifi settings
 const char WIFI_SSID[] = "Cesaraul";
-const char WIFI_PASS[] = "900327GC";
+const char WIFI_PASS[] = "88888";
 
 // BLE settings
 #define IBEACON_UUID            "ffeeddcc-bbaa-9988-7766-554433221100"
